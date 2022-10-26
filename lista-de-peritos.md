@@ -13,15 +13,14 @@ REGIÃO NORTE
 * AMAPÁ
     
     * MACAPÁ
-
+    
 	     * [Luiz Hamilton Silva (Analista de Segurança Computacional, Computação Forense, Perícias Digitais) ](https://www.linkedin.com/in/luiz-hamilton-roberto-da-silva-44529528/)
-
-
-    * MACAPÁ
-
+	     
 	     * [Adilson de Miranda (Perícia Forense, Adminstração de Redes e Segurança, Pedagogo) ](https://www.linkedin.com/in/adilsonmsjunior/)
-
+	     
 	     * [Marcio Bezerra da Silva (Análises em Geral) ](www.amapadigital.net)
+	     
+	     * [Daniel Ferreira Miranda (Systems Analyst, DPO Certified EXIN, CHFI EC-Council >> loading) ](https://www.linkedin.com/in/dpomiranda/)
 		 
 		 
 
